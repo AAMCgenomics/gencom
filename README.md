@@ -16,7 +16,7 @@ seaborn http://seaborn.pydata.org
 
 quasitools https://github.com/phac-nml/quasitools.git
 
-samtools
+samtools https://github.com/samtools/samtools.git
 
 Alt_nCov2019_primers tools from https://github.com/ItokawaK/Alt_nCov2019_primers.git
 
