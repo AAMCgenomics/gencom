@@ -25,3 +25,6 @@ MicroGMT: Microbial Genomics Mutation Tracker https://github.com/qunfengdong/Mic
 R , ggplot2
 
 bedtools https://bedtools.readthedocs.io/en/latest/
+
+nexclade nextclade-Linux-x86_64-4 https://github.com/nextstrain/nextclade.git
+
