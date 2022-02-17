@@ -1,2 +1,2 @@
 # gencom
-Script for generation of a consensus genome annotation and associated plots
+Scripts for generation of a consensus genome annotation and associated plots
